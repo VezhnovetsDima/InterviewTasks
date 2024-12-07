@@ -19,8 +19,8 @@ public class Duplicate_1 {
     }
 }
 ```
-task code: Read more [here](./Duplicate_1.java)
+task code: Read more [here](./Make_constructor.java)
 
-solution: [here](./Duplicate_1_solution.java)
+solution: [here](./Make_constructor_solution.java)
 
-read more: https://stackoverflow.com/questions/39079605/why-does-set-add-not-return-an-object
+Read more: https://www.baeldung.com/java-type-erasure
