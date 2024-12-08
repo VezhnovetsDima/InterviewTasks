@@ -23,6 +23,7 @@ class Spider extends Anthropod {
     }
 }
 ```
+task code: Read more [here](./Anthropod.java)
 
 articles: 
 https://www.baeldung.com/java-initialization
