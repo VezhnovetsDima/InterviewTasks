@@ -26,6 +26,8 @@ Instead, these **small tasks** serve as a better way for interviewers to evaluat
    [Task](./src/main/java/org/example/what_will_print/Multithreading_1/task.md)
 3. **Super**  
    [Task](./src/main/java/org/example/what_will_print/main_super/task.md)
+4. **try_catch_finally**  
+   [Task](./src/main/java/org/example/what_will_print/try_catch_finally/task.md)
 
 ### ✍️ Write a Method
 1. **Find Duplicate**  
