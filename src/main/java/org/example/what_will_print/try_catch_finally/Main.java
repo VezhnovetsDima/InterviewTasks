@@ -5,7 +5,7 @@ public class Main {
         try {
             System.out.println("try");
             throw new RuntimeException();
-            System.out.println("throw");
+            //System.out.println("throw"); remove comment and see error
         } catch (Exception e) {
             System.out.println("catch");
             throw new RuntimeException();
