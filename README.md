@@ -37,6 +37,8 @@ Instead, these **small tasks** serve as a better way for interviewers to evaluat
    [Task](./src/main/java/org/example/write_method/find_duplicate/task.md)
 2. **Generics_1**  
    [Task](./src/main/java/org/example/write_method/generics_1/task.md)
+3. **Rectangular**
+4. [Task](./src/main/java/org/example/write_method/rectangular/task.md)
 
 ---
 
