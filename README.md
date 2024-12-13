@@ -38,7 +38,9 @@ Instead, these **small tasks** serve as a better way for interviewers to evaluat
 2. **Generics_1**  
    [Task](./src/main/java/org/example/write_method/generics_1/task.md)
 3. **Rectangular**
-4. [Task](./src/main/java/org/example/write_method/rectangular/task.md)
+   [Task](./src/main/java/org/example/write_method/rectangular/task.md)
+4. **Find_indexes**
+   [Task](./src/main/java/org/example/write_method/find_indexes/task.md)
 
 ---
 
