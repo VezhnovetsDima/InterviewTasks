@@ -32,6 +32,8 @@ Instead, these **small tasks** serve as a better way for interviewers to evaluat
    [Task](./src/main/java/org/example/what_will_print/Multithreading_2/task.md)
 6. **A_B_inheritance**
    [Task](./src/main/java/org/example/what_will_print/A_B_inheritance/task.md)
+7. **Streams_1**
+   [Task](./src/main/java/org/example/what_will_print/Streams_1/task.md)
 ### ✍️ Write a Method
 1. **Find Duplicate**  
    [Task](./src/main/java/org/example/write_method/find_duplicate/task.md)
