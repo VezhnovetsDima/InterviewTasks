@@ -41,6 +41,8 @@ Instead, these **small tasks** serve as a better way for interviewers to evaluat
    [Task](./src/main/java/org/example/write_method/rectangular/task.md)
 4. **Find_indexes**
    [Task](./src/main/java/org/example/write_method/find_indexes/task.md)
+5. **repeating_symbols**
+   [Task](./src/main/java/org/example/write_method/repeating_symbols/task.md)
 
 ---
 
