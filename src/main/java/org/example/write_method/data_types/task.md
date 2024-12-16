@@ -26,6 +26,21 @@ List<? extends Number> list = new ArrayList<>();
 list.add(3.14); // Error: The actual list type might be ArrayList<Integer>, ArrayList<Double>, and etc.
 
 *** getValue = list.get(0); might be only Object, Number, var(it is not a datatype, but you can demonstrate your knowledges)
+
+extends worked as you think only if there was only one extend class from Number interface
+
+also the code will work as someone expected  if you set super in list declaration
+example:
+```java
+public class Main {
+    public static void main(String[] args) {
+        List<? super Number> list = new ArrayList<>();
+        Integer toAddValue = 32;
+        list.add(toAddValue);
+        Integer getValue = (Integer) list.get(0);
+    }
+}
+```
 articles:
 https://www.baeldung.com/java-generics-vs-extends-object
 https://amitosh.medium.com/java-generics-producer-extends-consumer-super-7235307d3d11
