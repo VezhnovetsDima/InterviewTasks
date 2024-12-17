@@ -5,9 +5,9 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        List<? extends Number> list = new ArrayList<>();
-        //*** toAddValue = null;
-        //list.add(toAddValue);
-        //*** getValue = list.get(0);
+        List<? super Number> list = new ArrayList<>();
+        Integer toAddValue = 32;
+        list.add(toAddValue);
+        Integer getValue = (Integer) list.get(0);
     }
 }
