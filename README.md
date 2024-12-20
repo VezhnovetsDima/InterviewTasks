@@ -49,6 +49,9 @@ Instead, these **small tasks** serve as a better way for interviewers to evaluat
    [Task](./src/main/java/org/example/write_method/data_types/task.md)
 7. **tags**
    [Task](./src/main/java/org/example/write_method/tags/task.md)
+### SQL
+1. **duplicates**
+   [Task](./src/main/java/org/example/sql/duplicates.md)
 ---
 
 Feel free to explore and sharpen your development skills! 💻
