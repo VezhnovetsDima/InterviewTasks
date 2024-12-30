@@ -52,6 +52,10 @@ Instead, these **small tasks** serve as a better way for interviewers to evaluat
 ### SQL
 1. **duplicates**
    [Task](./src/main/java/org/example/sql/duplicates.md)
+
+### Refactoring(make code review)
+1. **Service_multithreading**
+   [Task](./src/main/java/org/example/refactoring/CacheService/task.md)
 ---
 
 Feel free to explore and sharpen your development skills! 💻
