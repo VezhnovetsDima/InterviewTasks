@@ -56,6 +56,8 @@ Instead, these **small tasks** serve as a better way for interviewers to evaluat
 ### Refactoring(make code review)
 1. **Service_multithreading**
    [Task](./src/main/java/org/example/refactoring/CacheService/task.md)
+2. **CachedPhotosService**
+   [Task](./src/main/java/org/example/refactoring/CachedPhotosService/task.md)
 ---
 
 Feel free to explore and sharpen your development skills! 💻
