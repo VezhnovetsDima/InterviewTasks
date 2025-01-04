@@ -34,3 +34,5 @@ class SuperUserService {
 }
 
 ```
+
+Honestly, sometimes there is no interesting from java developer to see if he knows methods of CompletableFuture, but the target is to hear from candidate about parallel execution.
