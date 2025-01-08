@@ -64,6 +64,8 @@ Instead, these **small tasks** serve as a better way for interviewers to evaluat
    [Task](./src/main/java/org/example/refactoring/AccountController/task.md)
 5. **OrderService**
    [Task](./src/main/java/org/example/refactoring/OrderService/task.md)
+6. **ClientClass**
+   [Task](./src/main/java/org/example/refactoring/ClientClass/task.md)
 ---
 
 Feel free to explore and sharpen your development skills! 💻
