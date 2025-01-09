@@ -52,6 +52,8 @@ Instead, these **small tasks** serve as a better way for interviewers to evaluat
 ### SQL
 1. **duplicates**
    [Task](./src/main/java/org/example/sql/duplicates.md)
+2. **city_orders_sum**
+   [Task](./src/main/java/org/example/sql/city_orders_sum.md)
 
 ### Refactoring(make code review)
 1. **Service_multithreading**
