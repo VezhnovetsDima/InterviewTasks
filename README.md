@@ -54,7 +54,6 @@ Instead, these **small tasks** serve as a better way for interviewers to evaluat
    [Task](./src/main/java/org/example/sql/duplicates.md)
 2. **city_orders_sum**
    [Task](./src/main/java/org/example/sql/city_orders_sum.md)
-
 ### Refactoring(make code review)
 1. **Service_multithreading**
    [Task](./src/main/java/org/example/refactoring/CacheService/task.md)
@@ -68,6 +67,8 @@ Instead, these **small tasks** serve as a better way for interviewers to evaluat
    [Task](./src/main/java/org/example/refactoring/OrderService/task.md)
 6. **ClientClass**
    [Task](./src/main/java/org/example/refactoring/ClientClass/task.md)
+7. **ControllerAndService**
+   [Task](./src/main/java/org/example/refactoring/ControllerAndService/task.md)
 ---
 
 Feel free to explore and sharpen your development skills! 💻
