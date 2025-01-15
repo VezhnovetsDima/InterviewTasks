@@ -69,6 +69,8 @@ Instead, these **small tasks** serve as a better way for interviewers to evaluat
    [Task](./src/main/java/org/example/refactoring/ClientClass/task.md)
 7. **ControllerAndService**
    [Task](./src/main/java/org/example/refactoring/ControllerAndService/task.md)
+8. **TransactionalWithRest**
+   [Task](./src/main/java/org/example/refactoring/TransactionalWithRest/task.md)
 ---
 
 Feel free to explore and sharpen your development skills! 💻
